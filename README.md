@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 859711bf620a17134932e2ad7b8e1c2b34d681ac
 # DA9_capstone_cmatlock
 
 For this project, I will be analyzing how cost of living and overall affordability differentiates from states in which people are moving away from versus states that people are moving to.
@@ -27,4 +30,8 @@ Questions to be answered are:
 
 Python - Jupyter Notebook
 
+<<<<<<< HEAD
 Tableau
+=======
+Tableau
+>>>>>>> 859711bf620a17134932e2ad7b8e1c2b34d681ac
